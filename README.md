@@ -14,6 +14,7 @@
 - 3D 인물·성 소품: KayKit Adventurers · Dungeon Remastered — Kay Lousberg (CC0)
 - 왕관: Quaternius Crown (CC0)
 - 효과음: Kenney Impact Sounds (CC0)
+- 배경 음악: Stealth in the Woods — Lisboa (CC0, https://opengameart.org/content/stealth-music)
 - 제목 글꼴: Black Han Sans (SIL OFL 1.1)
 
 놀이 방식은 Studio Seufz 의 MURDER(2014)에서 따왔습니다.
